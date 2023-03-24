@@ -8,4 +8,4 @@ The simulations were created using the examples present in the tool as models. T
 
 The simulations were created in 2021.
 
-Some codes are broken or do not work. I can not tell which works and which not as I have to try them but I did not have time to do that yet. My objective is to test all of them in the future but I do not think that future will be near.
+Some codes are broken or do not work. I can not tell which works and which not as I have to try them but I did not have time to do that yet. My objective is to test all of them in the future but I do not think that future will be near. Once I try them I will delete those that do not work and I will add comments into the code of those that do work.
